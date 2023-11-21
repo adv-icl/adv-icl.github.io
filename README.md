@@ -1,6 +1,6 @@
 # Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations
 
-This is the repository that contains source code for the [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://safe-icl.github.io).
+This is the repository that contains source code for the [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://adv-icl.github.io).
 
 # Citation
 ```
